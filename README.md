@@ -2,6 +2,8 @@
 
 This repository contains a code of a few quantum computing algorithms for solving VRP (and its variants, e.g., CMDVRP (Capacitated Multi-Depot Vehicle Routing Problem)), based on D-Wave's Leap framework for quantum annealing. Older version of this code was a base for the article "New Hybrid Quantum Annealing Algorithms for Solving Vehicle Routing Problem" https://link.springer.com/chapter/10.1007%2F978-3-030-50433-5_42, where you can find more detailed descriptions of these algorithms.
 
+**NOTICE**: This example uses a legacy version of Ocean.
+
 ## Usage
 
 ### Getting started
